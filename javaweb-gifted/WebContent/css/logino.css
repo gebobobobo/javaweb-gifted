@@ -164,7 +164,7 @@
 
 .login {
     position: absolute;
-    width: 280px;
+    width: 360px;
     height: 500px;
     top: 140px;
     right: 12%;
@@ -379,7 +379,7 @@
 .regist {
     position: absolute;
     width: 380px;
-    height: 660px;
+    height: 500px;
     top: 140px;
     right: 12%;
     border-radius: 10px;
