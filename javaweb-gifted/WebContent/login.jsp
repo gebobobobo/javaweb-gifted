@@ -61,9 +61,10 @@
                     </div>
                     <div>
 						<input type="checkbox">&nbsp;&nbsp;自动登录&nbsp;&nbsp;&nbsp; <input
-							type="checkbox">&nbsp;&nbsp;记住密码&nbsp;&nbsp;<a href="forgetPwd2.jsp">找回密码</a> 
+							type="checkbox">&nbsp;&nbsp;记住密码
+						<p><a href="forgetPwd2.jsp">找回密码</a></p>	
 					</div>
-					<br>
+					
                     <button type="button" id="login" class="btn btn-success btn-block">登录</button>
                 </form>
             </div>
@@ -135,8 +136,7 @@
                 </div>
             </div>
             <div class="login-login">
-               
-                <span id="ToLogin">返回登录</span>
+               <span id="ToLogin">返回登录</span>
             </div>
         </div>
     </div>
